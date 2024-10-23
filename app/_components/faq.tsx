@@ -30,7 +30,7 @@ import {
                     <AccordionItem value="item-3">
                     <AccordionTrigger className="text-xl text-slate-200">Can I ask about anything related course or if my code dosen't work?</AccordionTrigger>
                     <AccordionContent className="text-lg text-slate-300">
-                    Yes, you can comment on every part of the videos in the course. We'll always try to reply to your comment and fix any issues you may have.
+                    Yes, you can comment on every part of the videos in the course. We will always try to reply to your comment and fix any issues you may have.
                     </AccordionContent>
                     </AccordionItem>
 
