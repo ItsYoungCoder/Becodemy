@@ -17,7 +17,7 @@ export const GuestStatistic = () => {
                 <div className='leading-tight'>
                     <span className='text-3xl font-semibold'>4.9</span>
                     <div>
-                        Student's ratings
+                        Students ratings
                     </div>
                 </div>
             </div>
