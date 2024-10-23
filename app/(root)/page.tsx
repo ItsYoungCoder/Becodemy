@@ -4,7 +4,6 @@ import { GuestStatistic } from "../_components/guest-statistic";
 import { Courses } from "../_components/courses";
 import { Title } from "../_components/title";
 import { Faq } from "../_components/faq";
-import { Footer } from "../_components/footer";
 
 export default function Home() {
   return (
